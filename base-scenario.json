@@ -1,6 +1,6 @@
 {
   "searchendpoint": "https://platformdev.cloud.coveo.com/rest/search/",
-  "analyticsendpoint": "https://analyticsdev.coveo.com/rest/ua/v15/analytics/",
+  "analyticsendpoint": "https://analyticsdev.cloud.coveo.com/rest/ua/v15/analytics/",
   "orgName": "uafunctionaltests",
   "timeBetweenVisits": 5,
   "defaultOriginLevel1": "default",

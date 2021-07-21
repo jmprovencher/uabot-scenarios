@@ -1,7 +1,7 @@
 {
   "searchendpoint": "https://platformdev.cloud.coveo.com/rest/search/",
   "orgName": "coveodev",
-  "timeBetweenVisits": 2,
+  "timeBetweenVisits": 0.1,
   "timeBetweenActions": 1,
   "allowAnonymousVisits" : true,
   "anonymousThreshold" : 1,
